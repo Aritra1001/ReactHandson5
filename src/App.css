@@ -1,3 +1,10 @@
+body{
+  background-color: rgb(62, 61, 61);
+}
+.count{
+  color:white;
+  font-weight:bold;
+}
 .App {
   text-align: center;
 }
